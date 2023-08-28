@@ -31,9 +31,9 @@ let myName = "BRIGHT";
 
 let a, b, c;
 
-a = b  // 4
-b = c // 4
-c = 2 + 2; // 4, 4, 4
+a = b * 3   // 4
+b = c * 2 // 4
+c = 2 * 2; // 4, 8, 24
 // 2, 2, 2 
  // a? b? c?
 // alert( a ); // 4

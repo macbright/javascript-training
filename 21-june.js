@@ -19,7 +19,7 @@
 // 2. An array
 // 3. A date
 
-let myString = "this is a string data type in programming"; // string
+let myString = "deagfafgafgg " // string
 let myNumber = 2348013984; // number
 let bigNumber = BigInt('3948203474324134110374037424'); // bignit 
 let myBoolean = true; // boolean
@@ -30,7 +30,7 @@ let myArr =
 ["lion", 200, {firstName: "bright"}, true, undefined, "bright", ['okike', 'okike3'] ]; // array
 let myObject = {
     "firstKey" : 3280493482,
-    firstName: "BRIGHT",
+    firstName: "BRIGHT", 
     lastName: "Okike",
     completed: true,
     items: ['oil', 'onions', 'pepper'],
