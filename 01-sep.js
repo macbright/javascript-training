@@ -40,10 +40,17 @@
 
 // CONDITIONAL STATEMENT
 
+let name = "Bright Okike";
+name = "bright okike"
+
+
 let myName = "bright okike";
 let myAlarm = 8.30;
 
 let arr = [2, 4, 5 ,6, 7, 9]
+if(name === "bright okike") {
+    console.log("Hello " + name)
+} 
 
 if(myName === "bright"){
     // console.log("Hello " + myName + " how are you doing today" )
