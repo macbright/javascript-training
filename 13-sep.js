@@ -30,7 +30,7 @@ let num = 7;
 
 // ARRAY 
 
-let arr = ["bread", "onions", "tomatoes", "sugar", ["rice", {  name: "bright"}],];
+let arr = ["bread", "onions", "tomatoes", "sugar", ["rice", {  name: "bright"}, []]];
 
 for(let i = 0; i < arr.length; i++){
     console.log(arr[i])
