@@ -340,3 +340,6 @@ export const users = [
       },
     }
 ]
+
+
+export const intructor = "BRIGHT"
